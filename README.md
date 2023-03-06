@@ -1,4 +1,4 @@
-olá GitHub!
+pintei a casa de vermelho
 
 estamos aprendendo a mexer no repertório remotos 
 
